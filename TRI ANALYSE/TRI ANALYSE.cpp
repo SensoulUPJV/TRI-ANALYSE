@@ -12,7 +12,6 @@ void swap(int* valSwitch1, int* valSwitch2){
 }
 
 void triBulle(int tailleTab, int Tableau[]){
-    int temp = Tableau[0];
     for (int indice = 0; indice < tailleTab; indice++){
         for (int parcour = 0; parcour < tailleTab - 1; parcour++){
             if (Tableau[parcour] > Tableau[parcour + 1]){
@@ -21,9 +20,8 @@ void triBulle(int tailleTab, int Tableau[]){
         }
     }
 }
-
+////test
 void triBulleAmeliore(int tailleTab, int Tableau[]){
-    int temp = Tableau[0];
     bool flag = true;
         for (int indice = 0; flag != false; indice++){
             flag = false;
@@ -34,6 +32,10 @@ void triBulleAmeliore(int tailleTab, int Tableau[]){
                 }
             }
         }
+}
+int test() {
+    int q;
+    return q;
 }
 int partionage(int low, int tailleTab, int Tableau[]){
     int pivot = Tableau[tailleTab];
