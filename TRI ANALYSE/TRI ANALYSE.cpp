@@ -20,7 +20,7 @@ void triBulle(int tailleTab, int Tableau[]){
         }
     }
 }
-////test
+
 void triBulleAmeliore(int tailleTab, int Tableau[]){
     bool flag = true;
         for (int indice = 0; flag != false; indice++){
@@ -33,10 +33,7 @@ void triBulleAmeliore(int tailleTab, int Tableau[]){
             }
         }
 }
-int test() {
-    int q;
-    return q;
-}
+
 int partionage(int low, int tailleTab, int Tableau[]){
     int pivot = Tableau[tailleTab];
     int indice1 = (low - 1);
