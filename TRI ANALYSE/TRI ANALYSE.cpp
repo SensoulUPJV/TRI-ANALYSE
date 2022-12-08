@@ -72,8 +72,8 @@ void remplissageDecroissant(int tailleTab, int Tableau[]) {
 }
 
 int* initTableau(int tailleTab) {
-    int* Tableau;
-    Tableau = new int[tailleTab];
+    
+    int *Tableau = new int[tailleTab];
     remplissageDecroissant(tailleTab, Tableau);
     return Tableau;
 }
