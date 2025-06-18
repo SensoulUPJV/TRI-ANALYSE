@@ -1,0 +1,10 @@
+C:\Users\vitto\source\repos\HakeemAlio\reseau_de_bus\reseau_de_bus\obj\Debug\reseau_de_bus.csproj.AssemblyReference.cache
+C:\Users\vitto\source\repos\HakeemAlio\reseau_de_bus\reseau_de_bus\obj\Debug\reseau_de_bus.Form1.resources
+C:\Users\vitto\source\repos\HakeemAlio\reseau_de_bus\reseau_de_bus\obj\Debug\reseau_de_bus.Properties.Resources.resources
+C:\Users\vitto\source\repos\HakeemAlio\reseau_de_bus\reseau_de_bus\obj\Debug\reseau_de_bus.csproj.GenerateResource.cache
+C:\Users\vitto\source\repos\HakeemAlio\reseau_de_bus\reseau_de_bus\obj\Debug\reseau_de_bus.csproj.CoreCompileInputs.cache
+C:\Users\vitto\source\repos\HakeemAlio\reseau_de_bus\reseau_de_bus\bin\Debug\reseau_de_bus.exe.config
+C:\Users\vitto\source\repos\HakeemAlio\reseau_de_bus\reseau_de_bus\bin\Debug\reseau_de_bus.exe
+C:\Users\vitto\source\repos\HakeemAlio\reseau_de_bus\reseau_de_bus\bin\Debug\reseau_de_bus.pdb
+C:\Users\vitto\source\repos\HakeemAlio\reseau_de_bus\reseau_de_bus\obj\Debug\reseau_de_bus.exe
+C:\Users\vitto\source\repos\HakeemAlio\reseau_de_bus\reseau_de_bus\obj\Debug\reseau_de_bus.pdb
